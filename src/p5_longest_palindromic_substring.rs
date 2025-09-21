@@ -3,26 +3,26 @@ use std::vec;
 struct Solution;
 
 impl Solution {
-
     /*
      * 动态规划
      *
      * d[i][j] = s[i] == s[j] && d[i+1][j-1]
      */
     pub fn longest_palindrome(s: String) -> String {
-        if s.chars().count() <= 2 { return s };
+        if s.chars().count() <= 2 {
+            return s;
+        };
 
         let s: Vec<char> = s.chars().collect();
-        let mut dp = vec![vec![false; s.len()]; s.len()];
         let mut longest: &[char] = &s[0..=0];
 
-        for i in 0..s.len() {
-            dp[i][i] = true;
-        }
+        let mut dp = vec![vec![false; s.len()]; s.len()];
+        dp.iter_mut().enumerate().for_each(|(i, row)| row[i] = true);
+
         for i in 0..s.len() - 1 {
             if s[i] == s[i + 1] {
                 dp[i][i + 1] = true;
-                longest = &s[i..=i+1];
+                longest = &s[i..=i + 1];
             }
         }
         for diff in 2..s.len() {
@@ -74,7 +74,7 @@ impl Solution {
             }
             return false;
         }
-        return true;
+        true
     }
 }
 
@@ -102,6 +102,9 @@ mod tests {
         assert_eq!(Solution::longest_palindrome1(String::from("abb")), "bb");
         assert_eq!(Solution::longest_palindrome1(String::from("")), "");
         assert_eq!(Solution::longest_palindrome1(String::from("ccc")), "ccc");
-        assert_eq!(Solution::longest_palindrome1(String::from("aaaaa")), "aaaaa");
+        assert_eq!(
+            Solution::longest_palindrome1(String::from("aaaaa")),
+            "aaaaa"
+        );
     }
 }
