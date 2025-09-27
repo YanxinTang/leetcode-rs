@@ -8,4 +8,5 @@ mod p8_string_to_integer_atoi;
 mod p9_palindrome_number;
 mod p11_container_with_most_water;
 mod p14_longest_common_prefix;
+mod p15_3sum;
 mod p1742_maximum_number_of_balls_in_a_box;
