@@ -18,4 +18,5 @@ mod p19_remove_nth_node_from_end_of_list;
 mod p20_valid_parentheses;
 mod p21_merge_two_sorted_lists;
 mod p22_generate_parentheses;
+mod p24_swap_nodes_in_pairs;
 mod p1742_maximum_number_of_balls_in_a_box;
