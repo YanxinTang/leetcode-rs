@@ -16,4 +16,5 @@ mod p17_letter_combinations_of_a_phone_number;
 mod p18_4sum;
 mod p19_remove_nth_node_from_end_of_list;
 mod p20_valid_parentheses;
+mod p21_merge_two_sorted_lists;
 mod p1742_maximum_number_of_balls_in_a_box;
