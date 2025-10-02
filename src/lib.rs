@@ -20,4 +20,5 @@ mod p21_merge_two_sorted_lists;
 mod p22_generate_parentheses;
 mod p24_swap_nodes_in_pairs;
 mod p26_remove_duplicates_from_sorted_array;
+mod p27_remove_element;
 mod p1742_maximum_number_of_balls_in_a_box;
