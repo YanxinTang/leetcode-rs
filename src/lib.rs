@@ -22,4 +22,5 @@ mod p24_swap_nodes_in_pairs;
 mod p26_remove_duplicates_from_sorted_array;
 mod p27_remove_element;
 mod p28_find_the_index_of_the_first_occurrence_in_a_string;
+mod p29_divide_two_integers;
 mod p1742_maximum_number_of_balls_in_a_box;
