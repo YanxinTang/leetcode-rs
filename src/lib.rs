@@ -23,4 +23,6 @@ mod p26_remove_duplicates_from_sorted_array;
 mod p27_remove_element;
 mod p28_find_the_index_of_the_first_occurrence_in_a_string;
 mod p29_divide_two_integers;
+// mod p30_substring_with_concatenation_of_all_words;
+mod p31_next_permutation;
 mod p1742_maximum_number_of_balls_in_a_box;
