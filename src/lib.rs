@@ -27,4 +27,5 @@ mod p29_divide_two_integers;
 mod p31_next_permutation;
 // mod p32_longest_valid_parentheses;
 mod p33_search_in_rotated_sorted_array;
+mod p34_find_first_and_last_position_of_element_in_sorted_array;
 mod p1742_maximum_number_of_balls_in_a_box;
