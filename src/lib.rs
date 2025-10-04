@@ -25,4 +25,6 @@ mod p28_find_the_index_of_the_first_occurrence_in_a_string;
 mod p29_divide_two_integers;
 // mod p30_substring_with_concatenation_of_all_words;
 mod p31_next_permutation;
+// mod p32_longest_valid_parentheses;
+mod p33_search_in_rotated_sorted_array;
 mod p1742_maximum_number_of_balls_in_a_box;
