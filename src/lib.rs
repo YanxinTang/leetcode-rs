@@ -32,4 +32,5 @@ mod p35_search_insert_position;
 mod p36_valid_sudoku;
 // mod p37_sudoku_solver;
 mod p38_count_and_say;
+mod p39_combination_sum;
 mod p1742_maximum_number_of_balls_in_a_box;
