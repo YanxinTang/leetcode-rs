@@ -29,4 +29,5 @@ mod p31_next_permutation;
 mod p33_search_in_rotated_sorted_array;
 mod p34_find_first_and_last_position_of_element_in_sorted_array;
 mod p35_search_insert_position;
+mod p36_valid_sudoku;
 mod p1742_maximum_number_of_balls_in_a_box;
