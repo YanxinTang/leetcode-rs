@@ -37,4 +37,6 @@ mod p40_combination_sum_ii;
 mod p41_first_missing_positive;
 mod p42_trapping_rain_water;
 mod p43_multiply_strings;
+// p44_wildcard_matching;
+mod p45_jump_game_ii;
 mod p1742_maximum_number_of_balls_in_a_box;
