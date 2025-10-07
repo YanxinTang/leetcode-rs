@@ -35,4 +35,5 @@ mod p38_count_and_say;
 mod p39_combination_sum;
 mod p40_combination_sum_ii;
 mod p41_first_missing_positive;
+mod p42_trapping_rain_water;
 mod p1742_maximum_number_of_balls_in_a_box;
