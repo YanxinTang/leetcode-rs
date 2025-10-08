@@ -40,4 +40,5 @@ mod p43_multiply_strings;
 // p44_wildcard_matching;
 mod p45_jump_game_ii;
 mod p46_permutations;
+mod p47_permutations_ii;
 mod p1742_maximum_number_of_balls_in_a_box;
