@@ -42,4 +42,5 @@ mod p45_jump_game_ii;
 mod p46_permutations;
 mod p47_permutations_ii;
 mod p48_rotate_image;
+mod p49_group_anagrams;
 mod p1742_maximum_number_of_balls_in_a_box;
