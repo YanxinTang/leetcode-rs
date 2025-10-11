@@ -44,4 +44,7 @@ mod p47_permutations_ii;
 mod p48_rotate_image;
 mod p49_group_anagrams;
 mod p50_powx_n;
+// mod p51_n_queens;
+// mod p52_n-queens_ii;
+mod p53_maximum_subarray;
 mod p1742_maximum_number_of_balls_in_a_box;
