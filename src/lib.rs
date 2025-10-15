@@ -50,4 +50,5 @@ mod p53_maximum_subarray;
 mod p54_spiral_matrix;
 mod p55_jump_game;
 mod p56_merge_intervals;
+mod p57_insert_interval;
 mod p1742_maximum_number_of_balls_in_a_box;
