@@ -55,4 +55,5 @@ mod p58_length_of_last_word;
 mod p59_piral_matrix_ii;
 mod p60_permutation_sequence;
 mod p61_rotate_list;
+mod p62_unique_paths;
 mod p1742_maximum_number_of_balls_in_a_box;
