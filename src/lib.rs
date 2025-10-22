@@ -63,4 +63,5 @@ mod p66_plus_one;
 mod p67_add_binary;
 mod p68_text_justification;
 mod p69_sqrtx;
+mod p70_climbing_stairs;
 mod p1742_maximum_number_of_balls_in_a_box;
