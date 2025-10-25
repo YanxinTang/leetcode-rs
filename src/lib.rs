@@ -66,4 +66,5 @@ mod p69_sqrtx;
 mod p70_climbing_stairs;
 mod p71_simplify_path;
 mod p72_edit_distance;
+mod p73_set_matrix_zeroes;
 mod p1742_maximum_number_of_balls_in_a_box;
