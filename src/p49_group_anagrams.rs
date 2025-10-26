@@ -27,7 +27,7 @@ mod tests {
                 String::from("nat"),
                 String::from("bat")
             ]),
-            vec![vec!["bat"], vec!["nat", "tan"], vec!["ate", "eat", "tea"]]
+            vec![vec!["eat", "tea", "ate"], vec!["tan", "nat"], vec!["bat"]]
         );
     }
 }
