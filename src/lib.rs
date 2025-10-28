@@ -73,4 +73,5 @@ mod p75_sort_colors;
 mod p77_combinations;
 mod p78_subsets;
 mod p79_word_search;
+mod p80_remove_duplicates_from_sorted_array_ii;
 mod p1742_maximum_number_of_balls_in_a_box;
