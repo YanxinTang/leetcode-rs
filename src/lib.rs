@@ -79,4 +79,5 @@ mod p82_remove_duplicates_from_sorted_list_ii;
 mod p83_remove_duplicates_from_sorted_list;
 mod p84_largest_rectangle_in_histogram;
 mod p85_maximal_rectangle;
+mod p86_partition_list;
 mod p1742_maximum_number_of_balls_in_a_box;
