@@ -82,4 +82,5 @@ mod p85_maximal_rectangle;
 mod p86_partition_list;
 mod p87_scramble_string;
 mod p88_merge_sorted_array;
+mod p89_gray_code;
 mod p1742_maximum_number_of_balls_in_a_box;
