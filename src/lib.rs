@@ -84,4 +84,5 @@ mod p87_scramble_string;
 mod p88_merge_sorted_array;
 mod p89_gray_code;
 mod p90_subsets_ii;
+mod p91_decode_ways;
 mod p1742_maximum_number_of_balls_in_a_box;
