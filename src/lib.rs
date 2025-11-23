@@ -88,4 +88,5 @@ mod p91_decode_ways;
 mod p92_reverse_linked_list_ii;
 mod p93_estore_ip_addresses;
 mod p94_binary_tree_inorder_traversal;
+mod p95_unique_binary_search_trees_ii;
 mod p1742_maximum_number_of_balls_in_a_box;
