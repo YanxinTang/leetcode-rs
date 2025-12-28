@@ -92,4 +92,5 @@ mod p95_unique_binary_search_trees_ii;
 mod p96_unique_binary_search_trees;
 mod p97_interleaving_string;
 mod p98_validate_binary_search_tree;
+mod p99_recover_binary_search_tree;
 mod p1742_maximum_number_of_balls_in_a_box;
