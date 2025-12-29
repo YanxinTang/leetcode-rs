@@ -94,4 +94,5 @@ mod p97_interleaving_string;
 mod p98_validate_binary_search_tree;
 mod p99_recover_binary_search_tree;
 mod p100_same_tree;
+mod p101_ymmetric_tree;
 mod p1742_maximum_number_of_balls_in_a_box;
